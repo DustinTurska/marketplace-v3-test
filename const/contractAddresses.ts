@@ -10,8 +10,7 @@ export const NETWORK = HaqqNetwork;
 export const MARKETPLACE_ADDRESS = "0x6AFF76D62a83D46c41D9025Ab5D74a02CbF31AAE";
 
 // 3. The address of your NFT collection smart contract.
-export const NFT_COLLECTION_ADDRESS =
-  "0xd006658C0dE0BBce8E255884DCD703374094A0A6";
+export const NFT_COLLECTION_ADDRESS = "0xd006658C0dE0BBce8E255884DCD703374094A0A6";
 
 // (Optional) Set up the URL of where users can view transactions on
 // For example, below, we use Mumbai.polygonscan to view transactions on the Mumbai testnet.
